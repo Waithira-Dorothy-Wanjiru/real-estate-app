@@ -1,0 +1,70 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "title": "Cozy Cottage",
+        "price": "$200,000",
+        "description": "A charming cottage in the countryside with a beautiful garden.",
+        "location": "Countryside",
+        "imageUrl": "https://i.pinimg.com/236x/27/d3/4e/27d34eebe2f3137e2d464c22432f6b78.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Modern Apartment",
+        "price": "$400,000",
+        "description": "A sleek apartment in the heart of the city, close to all amenities.",
+        "location": "City Center",
+        "imageUrl": "https://i.pinimg.com/236x/39/4d/90/394d9049bf2086fc5b4ee64e91a159af.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Beachfront Villa",
+        "price": "$1,200,000",
+        "description": "Luxurious villa with breathtaking ocean views and private beach access.",
+        "location": "Coastal",
+        "imageUrl": "https://i.pinimg.com/236x/a7/e1/3c/a7e13c0478585dbe8a2f72891429ede8.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Suburban Family Home",
+        "price": "$350,000",
+        "description": "Spacious home in a quiet suburb, perfect for families.",
+        "location": "Suburbia",
+        "imageUrl": "https://i.pinimg.com/236x/b1/92/bb/b192bb08db9d5f6d993ecba1d3d4d786.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Luxury Penthouse",
+        "price": "$2,000,000",
+        "description": "Exclusive penthouse with panoramic city views and modern amenities.",
+        "location": "Downtown",
+        "imageUrl": "https://i.pinimg.com/474x/2b/24/f0/2b24f02f4c6500fb50bbb6b20dd7af9b.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Rustic Farmhouse",
+        "price": "$180,000",
+        "description": "Quaint farmhouse surrounded by rolling fields and natural beauty.",
+        "location": "Rural",
+        "imageUrl": "https://i.pinimg.com/474x/66/e8/71/66e87123fa5fd5e0e47fac31b5a78a7a.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Mountain Retreat",
+        "price": "$500,000",
+        "description": "Secluded retreat nestled in the mountains, ideal for nature lovers.",
+        "location": "Mountain Range",
+        "imageUrl": "https://i.pinimg.com/736x/42/19/f9/4219f9548b8b61162e34dd99638ae04c.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Urban Loft",
+        "price": "$300,000",
+        "description": "Trendy loft in a revitalized urban area, close to cafes and shops.",
+        "location": "Urban Core",
+        "imageUrl": "https://i.pinimg.com/236x/e3/9e/8e/e39e8e35b253bfdab39673de08986e43.jpg"
+      }
+      
+    ]
+  }
+  
